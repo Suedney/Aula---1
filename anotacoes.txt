@@ -1,3 +1,0 @@
-ao modificar textos usa: "git add ." para adicionar a modificação
-para adicionar um commit: "git commit -m "Adicionar commit" depois da um: "git push" para publicar no commit local..
-usando o código github de outras pessoas: pesquisa pelo nome do projeto, busca a aplicação desejada, repositórios, copia o link e cola no terminal: "git clone 'link'. depois entra na pasta do projeto.
